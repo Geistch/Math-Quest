@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 65daab361b6cd244489bc768443743a4
+guid: e7aa3b3b3dd7a1e4b8ce3a2b68cdd60d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7725764037025539014
-    second: Captura de tela 2025-04-07 004849_0
+      213: -263678862065471430
+    second: eventorandom_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Captura de tela 2025-04-07 004849_0
+      name: eventorandom_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 909
-        height: 527
+        width: 1280
+        height: 1280
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a3cda9a8a8298c490800000000000000
-      internalID: -7725764037025539014
+      spriteID: a30fec3d879375cf0800000000000000
+      internalID: -263678862065471430
       vertices: []
       indices: 
       edges: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      eventorandom_0: -263678862065471430
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
