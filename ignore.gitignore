@@ -1,0 +1,32 @@
+[Libraries to Ignore]
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+MemoryCaptures/
+
+# Rider
+.idea/
+*.sln
+*.csproj
+
+# VS Code
+.vscode/
+
+# Mac OS
+.DS_Store
+
+# Unity generated
+*.unityproj
+*.pidb
+*.booproj
+*.svd
+
+# Crashlytics generated
+crashlytics-build.properties
+
+# Other
+*.apk
+*.aab

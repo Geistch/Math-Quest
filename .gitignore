@@ -1,0 +1,53 @@
+# ---- Unity (gerado automaticamente, não precisa versionar) ----
+[Libraries to Ignore]
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+MemoryCaptures/
+UserSettings/
+
+# ---- IDEs e editores ----
+# Visual Studio
+.vscode/
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.suo
+
+# Rider
+.idea/
+*.pidb
+*.booproj
+
+# VS Code local history
+.history/
+
+# ---- Sistema Operacional ----
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# ---- Outros arquivos que você não quer subir ----
+*.apk
+*.aab
+*.exe
+*.dll
+*.mp4
+*.zip
+*.rar
+*.7z
+*.log
+
+# ---- Crashlytics ou ferramentas de build ----
+crashlytics-build.properties
+
+# ---- Unity Cloud Build ----
+.collabignore
+.cloud/
