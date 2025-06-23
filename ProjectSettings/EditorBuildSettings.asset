@@ -8,6 +8,21 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Mapa.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/battleScene.unity
+    guid: 1ce9de1e7fa327141bb9ba623c01ecfd
+  - enabled: 1
+    path: Assets/Scenes/shopScene.unity
+    guid: cb22444199a2fa448956a8479987ef50
+  - enabled: 1
+    path: Assets/Scenes/chestScene.unity
+    guid: d5fe9b79318e55c4f92a4dbc5bd1bf4f
+  - enabled: 1
+    path: Assets/Scenes/eventScene.unity
+    guid: 7ba3039d3bccbbe4c92d5e20045efc7f
+  - enabled: 1
+    path: Assets/Scenes/bossScene.unity
+    guid: f3eddde6f804ca6438b243a49ebb7917
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
